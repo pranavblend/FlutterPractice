@@ -140,7 +140,7 @@ class _DatepickerState extends State<Datepicker> {
                         Align(
                           alignment: Alignment.center,
                           child: Text(
-                            "Pick Date",
+                            "Select Date",
                             style: TextStyle(
                                 color: Colors.white,
                                 fontWeight: FontWeight.w900),
