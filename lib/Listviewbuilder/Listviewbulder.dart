@@ -13,23 +13,32 @@ class _ListviewbulderState extends State<Listviewbulder> {
     Icons.chair_alt,
     Icons.chair_rounded,
     Icons.table_bar,
+    Icons.bedroom_baby_rounded
   ];
 
   List _title = [
     "Bed",
     "Chair",
     "Sofa",
-    "Table"
+    "Table",
+    "Cradle"
   ];
 
   List _subtitle = [
     "King Size Bed",
     "King Size Chair",
     "Sofa Cum Bed",
-    "Dressing Table"
+    "Dressing Table",
+    "Baby Bed"
   ];
 
-  List _color = [Colors.blueAccent, Colors.redAccent, Colors.pinkAccent,Colors.green];
+  List _color = [
+    Colors.blueAccent,
+    Colors.redAccent,
+    Colors.pinkAccent,
+    Colors.green,
+    Colors.blueAccent
+  ];
 
   @override
   Widget build(BuildContext context) {
