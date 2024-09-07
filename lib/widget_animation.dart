@@ -139,8 +139,8 @@ class _AnimateduiState extends State<Animatedui> {
               ),
               
               Lottie.asset("assets/Animation - 1723094946485.json"),
-              Lottie.asset("assets/Animation - 1723095895038.json")
-            ],
+              Lottie.asset("assets/Animation - 1723095895038.json"),
+]
           ),
         ),
       ),
